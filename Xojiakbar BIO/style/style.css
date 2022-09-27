@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav-container{
+    background: white;
+    font-size: 5px;
+}
+body{
+    background: linear-gradient(black, red,gold);
+}
